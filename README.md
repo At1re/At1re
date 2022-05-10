@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @At1re
 - 👀 I’m interested in Gaming and Coding
-- 🌱 I’m currently learning Python,CSS,HTML and PHP
-- I’m looking to collaberate on nothing right now.
+- 🌱 I’m currently learning Python, Javascript, Java
 - 📫 Reach me at atirebusinessalt@gmail.com
 
 <!---
