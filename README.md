@@ -1,5 +1,6 @@
-- 👀 I’m interested in Gaming and Coding
-- 🌱 I’m currently learning Python, Javascript, Java
+- 👀 I’m interested in Finance and Coding
+- 🌱 I’m currently learning C++ and Java
+- 🌱 I have advanced knowledge of Python, HTML, CSS and JavaScript
 - 📫 Reach me at atirebusinessalt@gmail.com
 
 <!---
