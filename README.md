@@ -1,4 +1,4 @@
-- 👀 I’m interested in Finance and Coding
+- 👀 I’m interested in Finance and Marketing 
 - 🌱 I’m currently learning C++ and Java
 - 🌱 I have advanced knowledge of Python, HTML, CSS and JavaScript
 - 📫 Reach me at atirebusinessalt@gmail.com
