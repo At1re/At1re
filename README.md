@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avery Tibetts</h1>
+<h1 align="center">Hi 👋, I'm Avery Tibbetts</h1>
 <h3 align="center">A passionate Computer Science Major from the United States</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=at1re&label=Profile%20views&color=0e75b6&style=flat" alt="at1re" /> </p>
