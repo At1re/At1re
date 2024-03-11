@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/At1re?tab=repositories](https://github.com/At1re?tab=repositories)
 
-<h3 align="left">Connect with me:</h3>
+h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/avery-tibbetts-b05529235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avery-tibbetts-b05529235/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/averytibbetts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="averytibbetts" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18543134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18543134" height="30" width="40" /></a>
-<a href="https://instagram.com/avery_tibbs15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avery_tibbs15" height="30" width="40" /></a>
+<a href="https://instagram.com/averytibbs15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avery_tibbs15" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/atirebusinessalt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="atirebusinessalt" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/atire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atire" height="30" width="40" /></a>
 </p>
