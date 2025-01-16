@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on [Duolingo Bukkit Plugin with Java](https://github.com/At1re/duolingopluginbase)
 
-- 👨‍💻 All of my projects are available at [https://github.com/At1re?tab=repositories](https://github.com/At1re?tab=repositories)
 
 <h3 align="left"><bold> Connect With Me <bold> </h3>
 <a href="https://linkedin.com/in/averytibbetts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="averytibbetts" height="30" width="40" /></a>
