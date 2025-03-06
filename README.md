@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=at1re&label=Profile%20views&color=0e75b6&style=flat" alt="at1re" /> </p>
 
-- 🔭 I’m currently working on [Duolingo Bukkit Plugin with Java](https://github.com/At1re/duolingopluginbase)
+- 🔭 I’m currently working on [AI Wrapper Chatbot](https://github.com/At1re/duolingopluginbase](https://github.com/At1re/Streamlit-Chatbot))
 
 
 <h3 align="left"><bold> Connect With Me <bold> </h3>
