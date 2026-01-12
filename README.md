@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [AI Wrapper Chatbot](https://github.com/At1re/Streamlit-Chatbot)
+- 🔭 I’m currently working on getting my degree in Computer Science, while minoring in Business.
 
 
 <h3 align="left"><bold> Connect With Me <bold> </h3>
