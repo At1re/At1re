@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avery Tibbetts</h1>
+<h1 align="center">Hi, I'm Avery Tibbetts 👋</h1>
 <h3 align="center">A passionate Computer Science Major from the United States</h3>
 
 
