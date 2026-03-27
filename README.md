@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on getting my degree in Computer Science, while minoring in Business.
+- 🔭 I’m currently working on getting my degree in Computer Science, while minoring in Business Administration.
 
 
 <h3 align="left"><bold> Connect With Me <bold> </h3>
