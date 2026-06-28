@@ -1,22 +1,51 @@
-<h1 align="center">Hi, I'm Avery Tibbetts 👋</h1>
-<h3 align="center">A passionate Computer Science Major from the United States</h3>
+# Hello, I'm Avery 👋
 
+CS major, business minor, currently trying to figure out how to build cool things while also passing my classes. I spend most of my time working on web apps and messing around with AI stuff — lately a lot of Next.js, Firebase, and the Anthropic API.
 
+I'm interested in how LLMs actually work in practice (not just the hype), so I've been building things like RAG systems and experimenting with model evals. Also have a background in WordPress/PHP from some freelance work, which is less glamorous but surprisingly useful.
 
-- 🔭 I’m currently working on getting my degree in Computer Science, while minoring in Business Administration.
+Still learning a lot. Open to internships!
 
+- 📍 United States
+- 📫 [linkedin.com/in/averytibbetts](https://linkedin.com/in/averytibbetts)
 
-<h3 align="left"><bold> Connect With Me <bold> </h3>
-<a href="https://linkedin.com/in/averytibbetts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="averytibbetts" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18543134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18543134" height="30" width="40" /></a>
-<a href="https://instagram.com/averytibbs15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avery_tibbs15" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/atirebusinessalt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="atirebusinessalt" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/atire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atire" height="30" width="40" /></a>
+---
+
+## what I work with
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+**Frameworks & Platforms**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
+
+**AI / ML**
+
+![Anthropic](https://img.shields.io/badge/Anthropic_API-CC785C?style=flat&logoColor=white)
+![Python](https://img.shields.io/badge/RAG_Pipelines-3776AB?style=flat&logo=python&logoColor=white)
+
+---
+
+## Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=at1re&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=at1re&layout=compact&theme=dark&hide_border=true" height="150" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
+## Find Me
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=at1re&" alt="at1re" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/averytibbetts)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/atire)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/atirebusinessalt)
