@@ -11,7 +11,7 @@ Still learning a lot. Open to internships!
 
 ---
 
-## what I work with
+## What I work with
 
 **Languages**
 
