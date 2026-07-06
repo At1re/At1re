@@ -34,14 +34,6 @@ Still learning a lot. Open to internships!
 
 ---
 
-## Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=at1re&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=at1re&layout=compact&theme=dark&hide_border=true" height="150" />
-</p>
-
----
 
 ## Find Me
 
