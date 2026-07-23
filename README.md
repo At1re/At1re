@@ -1,10 +1,10 @@
-# Hello, I'm Avery 👋
+Hi, I'm Avery.
 
-CS major, business minor, currently trying to figure out how to build cool things while also passing my classes. I spend most of my time working on web apps and messing around with AI stuff — lately a lot of Next.js, and Firebase.
+CS major, business minor. I build web apps, mostly with Next.js and Firebase.
 
-I'm interested in how LLMs actually work in practice (not just the hype), so I've been building things like RAG systems and experimenting with model evals. Also have a background in WordPress/PHP from some freelance work, which is less glamorous but surprisingly useful.
+Lately I've been working on RAG systems and model evals.
 
-Still learning a lot. Open to internships!
+Looking for internships.
 
 - 📍 United States
 - 📫 [linkedin.com/in/averytibbetts](https://linkedin.com/in/averytibbetts)
